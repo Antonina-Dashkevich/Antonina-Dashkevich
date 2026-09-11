@@ -1,4 +1,4 @@
-# Hi, I'm Antonina 👋
+# Hi, I'm Antonina!
 
 I'm a software developer focused on web development.
 
@@ -44,6 +44,10 @@ A recruitment platform for creating resume templates and generating candidate re
 
 [Repository](https://github.com/Antonina-Dashkevich/cv-management-app) · [Live demo](https://cv-app-lws0.onrender.com)
 
-## Technologies I work with
+## Technologies
 
 JavaScript · React · Next.js · Node.js · Express · PostgreSQL · Supabase · Prisma · REST APIs · Git
+
+## Contact
+
+[LinkedIn](www.linkedin.com/in/antonina-dashkevich)
