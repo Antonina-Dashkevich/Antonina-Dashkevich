@@ -42,7 +42,7 @@ A recruitment platform for creating resume templates and generating candidate re
 
 **Stack:** React, Node.js, Express, Prisma, PostgreSQL, Azure Blob Storage
 
-[Repository](https://github.com/Antonina-Dashkevich/cv-management-app)
+[Repository](https://github.com/Antonina-Dashkevich/cv-management-app) · [Live demo](https://cv-app-lws0.onrender.com)
 
 ## Technologies I work with
 
