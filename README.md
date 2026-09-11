@@ -50,4 +50,4 @@ JavaScript · React · Next.js · Node.js · Express · PostgreSQL · Supabase �
 
 ## Contact
 
-[LinkedIn](www.linkedin.com/in/antonina-dashkevich)
+[LinkedIn](https://www.linkedin.com/in/antonina-dashkevich)
